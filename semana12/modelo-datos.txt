@@ -1,0 +1,16 @@
+Modelo de datos simple:
+
+Entidad 1: Causa
+- id (clave primaria)
+- titulo
+- descripcion
+- fecha
+
+Entidad 2: Apoyo
+- id (clave primaria)
+- causa_id (clave foránea)
+- nombre (opcional, si se registra)
+- fecha
+
+Relación: Un apoyo pertenece a una causa (1 a muchos).
+Este modelo permite registrar causas y contar los apoyos de forma eficiente.

@@ -1,0 +1,7 @@
+Explicación de Autenticación:
+
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones de la plataforma.
+
+Es importante proteger algunas rutas porque pueden contener información privada, registros internos o acciones que no deberían estar disponibles para cualquier persona (como crear causas o ver datos sensibles).
+
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad.

@@ -1,0 +1,11 @@
+Existe una relación directa entre los tres conceptos. El uso responsable 
+de la información en internet es la base de la participación ciudadana, 
+porque si compartimos datos falsos, dañamos el debate público. 
+Cuando verificamos fuentes antes de publicar, ejercemos una ciudadanía 
+digital crítica y ética. Por otro lado, herramientas como Git nos enseñan 
+a organizar el trabajo técnico con orden, versiones y colaboración. 
+Así como en Git cada cambio queda registrado y revisado, en internet 
+cada información que compartimos debe tener respaldo. Ambos casos 
+promueven la responsabilidad: en Git con el código y en redes con la info. 
+Por eso, un buen ciudadano digital también debe ser ordenado y riguroso 
+en su trabajo técnico, usando herramientas que garanticen transparencia.

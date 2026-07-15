@@ -1,0 +1,12 @@
+Prueba de la ruta GET /reports
+Al ejecutar la ruta GET http://localhost:3000/reports después de haber registrado reportes mediante POST, el servidor responde con un array JSON que contiene todos los reportes almacenados en memoria.
+Ejemplo de respuesta esperada:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+Explicación:
+Los reportes se guardan temporalmente en una variable de memoria (let reportes = []). Cada vez que se consulta la ruta GET, el servidor devuelve todos los reportes registrados. Los datos se pierden si se detiene y reinicia el servidor.

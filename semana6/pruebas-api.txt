@@ -1,0 +1,8 @@
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación:
+Al enviar una petición POST a la ruta http://localhost:3000/registro con los datos de nombre y mensaje, el servidor devuelve exactamente el JSON anterior, confirmando que los datos fueron recibidos correctamente.

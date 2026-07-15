@@ -1,0 +1,14 @@
+Tareas que haría primero:
+1. Registrar incidencia (Historia de usuario 1)
+2. Notificación automática en Telegram (Historia de usuario 2)
+
+¿Por qué son las más importantes?
+Son las más importantes porque sin la posibilidad de registrar reportes y recibir notificaciones, el sistema no tendría funcionalidad básica. Son el núcleo del flujo principal.
+
+¿Qué significa que una tarea está "terminada"?
+
+Definición de Terminado (Definition of Done):
+- La funcionalidad funciona correctamente según la historia de usuario.
+- Fue probada manualmente con al menos 2 casos de prueba.
+- El código o flujo está registrado y commiteado en Git.
+- Cumple con los criterios de seguridad (no se envían datos sensibles).

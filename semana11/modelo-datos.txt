@@ -1,0 +1,30 @@
+Modelo de datos básico para plataforma comunitaria:
+
+Entidad: Causa
+Campos principales:
+- id (INT, PRIMARY KEY)
+- titulo (VARCHAR)
+- descripcion (TEXT)
+- fecha (DATE)
+- usuario_id (INT)  // quien creó la causa
+
+Propósito: Guardar las causas comunitarias que serán visibles en la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+- id (INT, PRIMARY KEY)
+- causa_id (INT)
+- usuario_id (INT)
+- fecha (DATE)
+
+Propósito: Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.
+
+Entidad: Usuario
+Campos principales:
+- id (INT, PRIMARY KEY)
+- nombre (VARCHAR)
+- email (VARCHAR, UNIQUE)
+- password_hash (VARCHAR)
+- fecha_registro (DATE)
+
+Propósito: Gestionar los usuarios registrados en la plataforma.

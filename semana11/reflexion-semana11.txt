@@ -1,0 +1,11 @@
+Reflexión:
+
+Una plataforma tecnológica que promueva participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información porque:
+
+La base de datos permite almacenar de forma organizada todas las causas y apoyos para que la información no se pierda y se pueda consultar fácilmente.
+
+La autenticación es fundamental para saber quién está participando y evitar que cualquier persona pueda modificar o crear contenido sin control.
+
+La protección de datos es esencial para generar confianza en los usuarios. Nadie participaría en una plataforma donde su información personal o sus opiniones puedan ser expuestas o usadas indebidamente.
+
+En resumen, estos tres elementos son la base técnica necesaria para crear un espacio seguro, funcional y confiable para la participación ciudadana.

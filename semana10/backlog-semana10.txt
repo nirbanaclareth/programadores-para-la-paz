@@ -1,0 +1,17 @@
+Historia de usuario 1:
+Como ciudadano quiero registrar una incidencia (foto, descripción y ubicación) para dejar evidencia formal del caso.
+
+Historia de usuario 2:
+Como coordinador quiero recibir una notificación automática en Telegram cuando se registre un nuevo reporte para poder revisarlo rápidamente.
+
+Historia de usuario 3:
+Como miembro del equipo quiero consultar los reportes registrados para dar seguimiento y asignar responsabilidades.
+
+Historia de usuario 4:
+Como ciudadano quiero consultar el estado de mi reporte para saber si ya fue revisado o atendido.
+
+Prioridad (mayor a menor):
+1. Registrar incidencia
+2. Notificación en Telegram
+3. Consultar reportes
+4. Consultar estado del reporte

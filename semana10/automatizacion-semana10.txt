@@ -1,0 +1,18 @@
+Flujo de automatización con n8n + Telegram:
+
+Evento que activa el flujo:
+Nuevo reporte registrado (Webhook o trigger cuando se guarda un nuevo registro).
+
+Mensaje que se enviaría a Telegram:
+"Nuevo reporte recibido 📌
+Descripción: [breve descripción]
+Ubicación: [ubicación]
+ID: [número de reporte]
+Revisa el sistema para más detalles."
+
+Información que NO se debe enviar por seguridad:
+- Nombres completos del denunciante
+- Documentos de identidad
+- Direcciones exactas completas
+- Teléfonos personales
+- Cualquier dato sensible o privado
